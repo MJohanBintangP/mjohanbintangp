@@ -64,7 +64,7 @@
 
 ###
 
-<h3 align="left">🙋‍♂️ lets connect with me</h3>
+<h3 align="left">🙋‍♂️ Let's connect with me</h3>
 
 ###
 
