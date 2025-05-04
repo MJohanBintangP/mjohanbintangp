@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="assets/banner.png"  />
+  <img height="250" src="assets/Banner.png"  />
 </div>
 
 ###
@@ -86,6 +86,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mjohanbintangp/mjohanbintangp/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mjohanbintangp/output/snake.svg" alt="Snake animation" />
 
 ###
