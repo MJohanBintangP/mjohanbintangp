@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">💻 I'm a Web Developer — Frontend Developer<br>🎨 I build clean, fast, and responsive UIs with React.js & Tailwind CSS  <br>⚙️ Currently exploring Typescript, Next.js, Golang for Full Stack Development <br>📚 Passionate about learning, clean code, and great user experience</p>
+<p align="left">💻 I'm a Web Developer — Full-Stack Developer<br>🎨 I build clean, fast, and responsive UIs with React.js & Tailwind CSS  <br>⚙️ Currently exploring Typescript, Next.js, Golang for Full Stack Development <br>📚 Passionate about learning, clean code, and great user experience</p>
 
 ###
 
