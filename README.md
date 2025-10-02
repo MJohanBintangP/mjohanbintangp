@@ -30,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
 </div>
 
 ###
@@ -39,8 +41,6 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
