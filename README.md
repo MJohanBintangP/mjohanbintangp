@@ -1,4 +1,4 @@
-<h3 align="left">Hi, i'm mjohanbintangp, i'm a web developer👋.</h3>
+<h3 align="left">Hi, i'm mjohanbintangp, i'm a software engineer👋.</h3>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">💻 I'm a Web Developer — Frontend Developer<br>🎨 I build clean, fast, and responsive UIs with React.js & Tailwind CSS  <br>⚙️ Currently exploring Typescript, Next.js, Golang for Full Stack Development <br>📚 Passionate about learning, clean code, and great user experience</p>
+<p align="left">💻 I'm a Software Engineer<br>📚 Passionate about learning, clean code, and great user experience</p>
 
 ###
 
@@ -32,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
 </div>
 
 ###
@@ -41,8 +43,6 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -50,18 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-</div>
-
-###
-
-<h3 align="left">📈 Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mjohanbintangp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mjohanbintangp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=mjohanbintangp&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
