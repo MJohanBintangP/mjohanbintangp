@@ -21,11 +21,13 @@
 ###
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="js logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="20" />
