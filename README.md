@@ -29,7 +29,7 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
   <img width="20" />
@@ -65,7 +65,7 @@
   <a href="https://www.instagram.com/mjohanbintangp" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
   </a>
-  <a href="https://www.youtube.com/@code.habits" target="_blank">
+  <a href="https://www.youtube.com/@mjohanbintangp-code" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="30" alt="youtube logo"  />
   </a>
 </div>
