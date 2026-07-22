@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">a Software Engineer<br> code cleaner && great reviewer</p>
+<p align="left">a Software Engineer<br> code cleaner. great reviewer.</p>
 
 ###
 
